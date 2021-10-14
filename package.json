@@ -1,0 +1,29 @@
+{
+    "name": "backend-entregable3",
+    "version": "1.0.0",
+    "description": "Entregable 3 - Carlos Tejero",
+    "main": "index.js",
+    "scripts": {
+        "test": "node index.js",
+        "dev": "nodemon index.js",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mtejero2020/backend-entregable3.git"
+    },
+    "author": "Carlos Tejero",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/mtejero2020/backend-entregable3/issues"
+    },
+    "homepage": "https://github.com/mtejero2020/backend-entregable3#readme",
+    "devDependencies": {
+        "nodemon": "^2.0.13"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "node-emoji": "^1.11.0"
+    }
+}
